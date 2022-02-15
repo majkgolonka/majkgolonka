@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @majkgolonka
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Mike Golonka
+- 👀 I’m interested in machine learning, sports, and cars.
 - 🌱 I’m currently learning C and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 majkgolonka/majkgolonka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
