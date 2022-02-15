@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mike Golonka</h1>
+<h1 align="left">Hi 👋, I'm Mike Golonka</h1>
 <h3 align="center">A Husband, Engineer, Student, and Soccer player</h3>
 
 - 🌱 I’m currently learning **C#**
