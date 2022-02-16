@@ -2,6 +2,9 @@
 <h3 align="center">A Husband, Engineer, Student, and Soccer player</h3>
 
 - 🌱 I’m currently learning **C#**
+- 🌆 A student at AGH university of science and technology in Kraków
+- 🚗 🤖 Interested in autonomous cars and machine learning
+- ✨ Goal for this year is to learn how to code and find a job
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
